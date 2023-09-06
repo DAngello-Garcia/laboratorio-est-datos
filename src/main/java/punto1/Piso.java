@@ -1,4 +1,4 @@
-package uq;
+package punto1;
 
 import java.util.ArrayList;
 

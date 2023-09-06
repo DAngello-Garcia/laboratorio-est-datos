@@ -1,4 +1,4 @@
-package uq;
+package punto1;
 
 public class Prisionero {
     private String identificacion;
